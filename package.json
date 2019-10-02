@@ -1,0 +1,24 @@
+{
+  "name": "katas",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "test:watch": "jest --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nahsiloh/Katas.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nahsiloh/Katas/issues"
+  },
+  "homepage": "https://github.com/nahsiloh/Katas#readme",
+  "devDependencies": {
+    "jest": "^24.9.0"
+  }
+}
