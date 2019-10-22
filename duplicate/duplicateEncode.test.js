@@ -1,4 +1,4 @@
-const duplicateEncode = require("./duplicateEncoder");
+const duplicateEncode = require("../duplicate");
 
 describe("duplicate encoder", () => {
   it("should return convert abcc to (()) ", () => {
